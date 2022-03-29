@@ -12,4 +12,5 @@ playin <- function(x, y) {
 }
 
 
-playin(x,y)
+
+playin(4,4)
